@@ -1,0 +1,9 @@
+mysql/*
+mysql/data/*
+!mysql/data/.gitkeep
+!mysql/configs
+
+rails/project/*
+!rails/project/.gitkeep
+
+!.gitkeep
